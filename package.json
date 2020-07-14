@@ -1,0 +1,13 @@
+{
+  "name": "wework_c19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d weWork_c19"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://souravkr02.github.io/trackcovid",
+  
+}
